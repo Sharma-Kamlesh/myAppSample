@@ -1,3 +1,1 @@
-<html>
-    <head>
-    <title
+console.log('Hello');
